@@ -14,4 +14,4 @@
 - Depois de efetuar a operação selecionada pergunta ao usuário se deve continuar
 - Caso o usuário desejar continuar é lido mais um valor e mais um operador
 - Efetua a nova operação e pergunta novamente se deseja continuar
-- Se o usuário informar que não pelo caracter de entrada do menu mostra o resultado
+- Se o usuário informar que não pelo caracter de entrada do menu, mostra o resultado
