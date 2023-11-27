@@ -1,4 +1,4 @@
-Introduction
+## Introduction
 The developed project is a calculator with input values and selection of basic operations through a menu of possibilities.
 
 How it works
